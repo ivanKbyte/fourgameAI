@@ -1,4 +1,3 @@
-```markdown
 # 🔴🟡 Connect Four AI
 
 A smart Connect Four game built in Python featuring an AI player that uses the minimax algorithm with alpha-beta pruning. Perfect for testing your skills against an intelligent opponent or watching two AIs battle it out!
@@ -65,4 +64,3 @@ Great for learning:
 ---
 
 Built as part of an Introduction to AI course. The AI is surprisingly challenging - good luck beating it! 🎯
-```
